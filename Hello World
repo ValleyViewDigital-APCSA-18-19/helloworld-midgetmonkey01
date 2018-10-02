@@ -1,0 +1,9 @@
+package helloRicardo;
+
+public class HelloRicardo 
+{
+	public static void main(String[] args) 
+  {
+		System.out.println("Hello Ricardo");
+	}
+}
